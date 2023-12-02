@@ -1,4 +1,4 @@
-### Hi there 👋 I'm beginner programmer. 
+### Hi there 👋 I'm learnig programming. 
 
 <!--
 **dglee6257/dglee6257** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
